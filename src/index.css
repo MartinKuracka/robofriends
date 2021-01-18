@@ -14,7 +14,9 @@ background: linear-gradient(6deg, rgba(77,57,142,1) 0%, rgba(40,37,154,1) 49%, r
 }
 h1 {
 	font-family: 'Hachi Maru Pop', cursive;
-	font-size: 40px;
+	font-size: 50px;
+	font-weight: 400;
+	color:#c7e3e4;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
