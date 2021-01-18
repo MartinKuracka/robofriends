@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import App from './containers/App';
 import 'tachyons';
-import {robots} from './robots';
 
 ReactDOM.render(
 	<App />,
