@@ -1,6 +1,5 @@
 import React from 'react';
 
-// we have two props here to be used in the parent App {searchField, searchChange}.
 const SearchBox = ({searchField, searchChange}) => {
 	return (
 		<div className="pa2">

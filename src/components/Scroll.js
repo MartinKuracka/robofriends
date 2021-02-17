@@ -9,5 +9,3 @@ const Scroll = (props) => {
 };
 
 export default Scroll;
-
-// this is reusable component, I can now use it anywher on the Website to make content scroll. Like this we make reusable components, with chidren as well.
